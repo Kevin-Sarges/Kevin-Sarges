@@ -4,7 +4,7 @@
 
 I'm developer frontend(HTML, CSS end javaScript).
 
-Computer Science student in UNAMA💻.
+Computer Science student💻.
 
 ## 📫 find me:
 
