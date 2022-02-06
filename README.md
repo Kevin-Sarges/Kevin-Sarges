@@ -1,13 +1,15 @@
-# Hi, I'm Kevin! 👋
+# Olá, me chamo Kevin Sarges! 👋
 
-### About me😊:
+### Sobre😊:
 
-I'm developer frontend(HTML, CSS end javaScript).
+Sou estudante de ciência da computação e
+Desenvolvedor Web.
 
-Computer Science student💻.
+## Principais tecnologias: 
+React Js e Node Js.
 
-## 📫 find me:
+## Entre em contato📫:
 
-👉[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sarges-1844691b8/)](https://www.linkedin.com/in/kevin-sarges-1844691b8/)
+👉[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sarges-1844691b8/)](https://www.linkedin.com/in/kevin-sarges-1844691b8/) Kevin Sarges
 
-👉[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KevinSarges)](https://twitter.com/KevinSarges)
+👉![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) kevinsarges08@gmail.com
