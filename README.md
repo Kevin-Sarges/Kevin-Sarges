@@ -2,8 +2,9 @@
 
 ### Sobre:
 
-Sou estudante de ciência da computação e
-Desenvolvedor Web.
+Sou estudante de ciência da computação na UNAMA (Universidade da Amazônia - PA)
+<br/>
+e Desenvolvedor Web.
 
 ## Principais tecnologias: 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
