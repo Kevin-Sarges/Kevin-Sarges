@@ -35,7 +35,7 @@ e Desenvolvedor Web.
 
 ## Entre em contato📫:
 
-👉[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sarges-1844691b8/)](https://www.linkedin.com/in/kevin-sarges-1844691b8/) Kevin Sarges
+👉[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-sarges-1844691b8/)](https://www.linkedin.com/in/kevin-sarges/) Kevin Sarges
 
 👉![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAI) kevinsarges08@gmail.com
 
