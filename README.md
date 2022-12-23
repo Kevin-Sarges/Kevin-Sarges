@@ -6,13 +6,10 @@ Sou estudante de ciência da computação na UNAMA (Universidade da Amazônia - 
 <br/> Desenvolvedor Mobile.
 
 ## Principais tecnologias: 
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-
 - <img src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" width="25px">
+- <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg?hl=pt-br" width="25px">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="25px">
-- <img src="https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/firebase/images/lockup.svg">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="25px">
 
 
 ## Ferramentas de Desenvolvimento:
