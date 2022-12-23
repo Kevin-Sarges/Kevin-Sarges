@@ -3,14 +3,16 @@
 ### Sobre:
 
 Sou estudante de ciência da computação na UNAMA (Universidade da Amazônia - PA)
-<br/> Desenvolvedor Web e Mobile.
+<br/> Desenvolvedor Mobile.
 
 ## Principais tecnologias: 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+
+- <img src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" width="25px">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="25px">
+- <img src="https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/firebase/images/lockup.svg">
 
 
 ## Ferramentas de Desenvolvimento:
