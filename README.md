@@ -3,7 +3,7 @@
 ### Sobre:
 
 Sou graduado em ciência da computação na UNAMA (Universidade da Amazônia - PA)
-<br/>E sou desenvolvedor Mobile Atualmente trabalho como freelance pela Team Seven Tech.
+<br/>E sou desenvolvedor Mobile Atualmente trabalho como freelance pela Viperise S.D.
 
 ## Principais tecnologias: 
 - <img src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" width="25px"> Flutter
