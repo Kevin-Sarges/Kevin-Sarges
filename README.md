@@ -2,10 +2,7 @@
 
 ### Sobre:
 
-Sou graduado em ciência da computação na UNAMA (Universidade da Amazônia - PA)
-<br/>E sou desenvolvedor Mobile Atualmente trabalho como freelance pela Viperise S.D. Eu
-<br/>utilizo o framework Flutter com foco exclusivamente na área de desenvolvimento
-<br/>de aplicativos, seja para smartphones ou tablets.
+Sou um desenvolvedor mobile, especializado em Flutter. Sou formado em Ciência da Computação na pela UNAMA e possuo experiência em desenvolvimento e manutenção de aplicativos, incluindo projetos como freelancer. Atualmente, atuo na SEICOMTEC(Secretaria Municipal de indústria, comércio e tecnologia) em Barcarena - PA, onde implemento e dou manutenção em sistemas dentro da prefeitura. Também trabalho como freelancer na Viperise S.D., contribuindo para o desenvolvimento de aplicativos como o ReachOut atuei como dev mobile e atualmente como PO. Sou focado em metodologias ágeis, trabalho em equipe e práticas de desenvolvimento como clean code e clean architecture.
 
 ### Minhas principais tecnologias:  
 ![Flutter](https://img.shields.io/badge/Flutter-%2301579B?style=for-the-badge&logo=flutter&logoColor=white)
